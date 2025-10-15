@@ -13,4 +13,5 @@ It provides a series of tutorials, quizzes, and live coding challenges that cove
 
 ---
 My solutions for the SQLZoo Topics :
-- [select_basics](https://github.com/Es-war29/sql_zoo/blob/main/practice/select_01)
+- [select basics](https://github.com/Es-war29/sql_zoo/blob/main/practice/select_01)
+- [select from world](https://github.com/Es-war29/sql_zoo/blob/main/practice/select_02)
