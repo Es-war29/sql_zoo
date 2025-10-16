@@ -1,5 +1,6 @@
 
 // SELECT basics
+// link : https://sqlzoo.net/wiki/SELECT_basics
 
 -- 1. The example uses a WHERE clause to show the population of 'France'. Note that strings should be in 'single quotes';
 SELECT population FROM world
@@ -17,6 +18,8 @@ SELECT name, area FROM world
   WHERE area BETWEEN 200000 AND 250000;
 
 // Quiz
+// link : https://sqlzoo.net/wiki/SELECT_Quiz
+
 -- 1. Select the code that produces this table
 
       |name	        | population |
