@@ -16,3 +16,4 @@ My solutions for the SQLZoo Topics :
 - [select basics](https://github.com/Es-war29/sql_zoo/blob/main/practice/select_01)
 - [select from world](https://github.com/Es-war29/sql_zoo/blob/main/practice/select_02)
 - [select from nobel](https://github.com/Es-war29/sql_zoo/blob/main/practice/select_03)
+- [select within select ](https://github.com/Es-war29/sql_zoo/blob/main/practice/select_04)
