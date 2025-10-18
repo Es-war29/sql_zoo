@@ -13,7 +13,8 @@ It provides a series of tutorials, quizzes, and live coding challenges that cove
 
 ---
 My solutions for the SQLZoo Topics :
-- [select basics](https://github.com/Es-war29/sql_zoo/blob/main/practice/select_01)
-- [select from world](https://github.com/Es-war29/sql_zoo/blob/main/practice/select_02)
-- [select from nobel](https://github.com/Es-war29/sql_zoo/blob/main/practice/select_03)
-- [select within select ](https://github.com/Es-war29/sql_zoo/blob/main/practice/select_04)
+- [select basics](https://github.com/Es-war29/sql_zoo/blob/main/practice/01_select_basics)
+- [select from world](https://github.com/Es-war29/sql_zoo/blob/main/practice/02_select_from_world)
+- [select from nobel](https://github.com/Es-war29/sql_zoo/blob/main/practice/03_select_from_nobel)
+- [select within select ](https://github.com/Es-war29/sql_zoo/blob/main/practice/04_select_within_select)
+- [sum and count](https://github.com/Es-war29/sql_zoo/blob/main/practice/05_sum_and_count)
